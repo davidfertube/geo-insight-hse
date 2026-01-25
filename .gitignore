@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.pt
+*.pth
+*.onnx
+runs/
+wandb/
+
+# Gradio
+flagged/
+*.log
+
+# Environment
+.env
+.env.local
+
+# Docker
+*.tar
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
