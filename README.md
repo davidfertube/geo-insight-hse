@@ -26,7 +26,7 @@ tags:
 
 ## Overview
 
-**Vision AI Safety Inspector** is a production-grade Vision-Language Model (VLM) system for real-time HSE compliance monitoring at energy facilities. Using Qwen2-VL, it doesn't just detect objects—it interprets scenes to identify missing PPE and assess environmental risks with natural language reasoning.
+**Vision AI Safety Inspector** is an experimental VLM system for HSE compliance inspection using Qwen2-VL multimodal model for safety scene understanding. This experiment explores how vision-language models can move beyond traditional object detection to understand behavioral context—recognizing not just objects, but actions and safety violations in industrial settings.
 
 ## System Architecture
 
